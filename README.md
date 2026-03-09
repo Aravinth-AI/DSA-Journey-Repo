@@ -62,8 +62,8 @@ DSA-Journey/
 - 🌐 geeksforgeeks.org
 
 ## 🔗 Connect With Me
-- LinkedIn: [Your LinkedIn URL here]
-- LeetCode: [Your LeetCode profile here]
+- LinkedIn: [https://www.linkedin.com/in/aravim]
+- LeetCode: [Aravinth_Mani]
 
 ---
 ⭐ If you find this helpful, give it a star! 
